@@ -1,0 +1,47 @@
+Class						Str	Dex	Con	Int	Wis	Cha
+Berserker Barbarian			5	3	4	0	2	1
+Totem Warrior Barbarian		5	3	4	0	2	1
+Lore Bard					0	2	3	4	1	5
+Valor Bard					4	1	3	0	2	5
+Valor Bard					1	4	3	0	2	5
+Knowledge Cleric			2	1	4	3	5	0
+Life Cleric					3	0	4	1	5	2
+Light Cleric				3	2	4	1	5	0
+Nature Cleric				3	0	4	2	5	1
+Tempest Cleric				4	0	3	1	5	2
+Trickery Cleric				0	3	4	1	5	2
+War Cleric					4	0	3	1	5	2
+Land Druid					1	2	4	3	5	0
+Moon Druid					1	2	4	3	5	0
+Champion Fighter			5	3	4	1	2	0
+Champion Fighter			3	5	4	1	2	0
+Battle Master Fighter		5	3	4	1	2	0
+Battle Master Fighter		3	5	4	1	2	0
+Eldritch Knight Fighter		5	2	4	3	1	0
+Eldritch Knight Fighter		2	5	4	3	1	0
+Open Hand Monk				0	5	3	1	4	2
+Shadow Monk					0	5	3	1	4	2
+Four Elements Monk			0	4	3	1	5	2
+Devotion Paladin			5	0	4	1	2	3
+Ancients Paladin			5	0	4	1	2	3
+Vengeance Paladin			5	0	4	1	2	3
+Hunter Ranger				5	2	4	1	3	0
+Hunter Ranger				2	5	3	1	4	0
+Beast Master Ranger			5	2	4	1	3	0
+Beast Master Ranger			2	5	3	1	4	0
+Thief Rogue					0	5	3	4	1	2
+Assassin Rogue				0	5	3	4	2	1
+Arcane Trickster Rogue		0	5	3	4	1	2
+Draconic Sorcerer			0	3	4	1	2	5
+Wild Magic Sorcerer				0	3	4	1	2	5
+Archfey Warlock				0	3	4	2	1	5
+Fiend Warlock				0	3	4	2	1	5
+Great Old One Warlock		0	3	4	2	1	5
+Abjuration Wizard			0	3	4	5	2	1
+Conjuration Wizard			0	3	4	5	2	1
+Divination Wizard			0	3	4	5	2	1
+Enchantment Wizard			0	3	4	5	2	1
+Evocation Wizard			0	3	4	5	2	1
+Illusion Wizard				0	3	4	5	2	1
+Necromancy Wizard			0	3	4	5	2	1
+Transmutation Wizard		0	3	4	5	2	1

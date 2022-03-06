@@ -1,0 +1,15 @@
+book	name				feat						skills				 		languages	tools
+core	Acolyte				Shelter of the Faithful		Insight,Religion			Any2		None
+core	Charlatan			False Identity				Deception,Sleight of Hand	None		Disguise kit,Forgery kit
+core	Criminal,Spy		Criminal Contact			Deception,Stealth			None		Gaming1,Thieves' tools
+core	Entertainer,Gladiator	By Popular Demand		Acrobatics,Performance		None		Disguise kit,Instrument1
+core	Folk Hero			Rustic Hospitality			Animal Handling,Survival	None		Artisan1,Vehicles (land)
+core	Guild Artisan		Guild Membership			Insight,Persuasion			Any1		Artisan1
+core	Hermit				Discovery					Medicine,Religion			Any1		Herbalism kit
+core	Noble,Knight		Position of Privilege,Retainers	History,Persuasion		Any1		Gaming1
+core	Outlander			Wanderer					Athletics,Survival			Any1		Instrument1
+core	Sage				Researcher					Arcan,History				Any2		None
+core	Sailor				Ship's Passage				Athletics,Perception		None		Navigator's Tools,Vehicles (water)
+core	Pirate				Bad Reputation				Athletics,Perception		None		Navigator's Tools,Vehicles (water)
+core	Soldier				Military Rank				Athletics,Intimidation		None		Gaming1,Vehicles (land)
+core	Urchin				City Secrets				Sleight of Hand,Stealth		None		Disguise kit,Thieves' tools

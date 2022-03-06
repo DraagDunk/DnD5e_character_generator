@@ -1,0 +1,13 @@
+Class	Hit die	Armor profs	Weapon profs	Tool profs	Saving throws	Skills
+Barbarian	12	Light,Medium,Shield	Simple,Martial	None	strength,constitution	2:animal handling,athletics,intimidation,nature,perception,survival
+Bard	8	Light	Simple,Hand crossbow,Longsword,Rapier,Shortsword	Instrument3	dexterity,charisma	Choice3
+Cleric	8	Light,Medium,Shield	Simple	None	wisdom,charisma	2:history,insight,medicine,persuasion,religion
+Druid	8	Light,Medium,Shield	Club,Dagger,Dart,Javelin,Mace,Quarterstaff,Scimitar,Sickle,Sling,Spear	Herbalism kit	intelligence,wisdom	2:arcana,animal handling,insight,medicine,nature,perception,religion,survival
+Fighter	10	Light,Medium,Heavy,Shield	Simple,Martial	None	strength,constitution	2:acrobatics,animal handling,athletics,history,insight,intimidation,perception,survival
+Monk	8	None	Simple,Shortsword	1:Artisan1,Instrument1	strength,dexterity	2:acrobatics,athletics,history,insight,religion,stealth
+Paladin	10	Light,Medium,Heavy,Shield	Simple,Martial	None	wisdom,charisma	2:athletics,insight,intimidation,medicine,persuasion,religion
+Ranger	10	Light,Medium,Shield	Simple,Martial	None	strength,dexterity	3:animal handling,athletics,insight,investigation,nature,perception,stealth,survival
+Rogue	8	Light	Simple,Hand crossbow,Longsword,Rapier,Shortsword	Thieves' tools	dexterity,intelligence	4:acrobatics,athletics,deception,insight,intimidation,investigation,perception,performance,persuasion,sleight of hand,stealth
+Sorcerer	6	None	Dagger,Dart,Sling,Quarterstaff,Light crossbow	None	constitution,charisma	2:arcana,deception,insight,intimidation,persuasion,religion
+Warlock	8	Light	Simple	None	wisdom,charisma	2:arcana,deception,history,intimidation,investigation,nature,religion
+Wizard	6	None	Dagger,Dart,Sling,Quarterstaff,Light crossbow	None	intelligence,wisdom	2:arcana,history,insight,investigation,medicine,religion

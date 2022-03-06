@@ -1,0 +1,39 @@
+core	Barbarian	3	Berserker,Totem Warrior
+core	Bard	3	Lore,Valor
+core	Cleric	1	Knowledge,Life,Light,Nature,Tempest,Trickery,War
+core	Druid	2	Land,Moon
+core	Fighter	3	Champion,Battle Master,Eldritch Knight
+core	Monk	3	Open Hand,Shadow,Four Elements
+core	Paladin	3	Devotion,Ancients,Vengeance
+core	Ranger	3	Hunter,Beast Master
+core	Rogue	3	Thief,Assassin,Arcane Trickster
+core	Sorcerer	1	Draconic,Wild Magic
+core	Warlock	1	Archfey,Fiend,Great Old One
+core	Wizard	2	Abjuration,Conjuration,Divination,Enchantment,Evocation,Illusion,Necromancy,Transmutation
+dmg	Cleric	1	Death
+dmg	Paladin	3	Oathbreaker
+xge	Barbarian	3	Ancestral Guardian,Storm Herald,Zealot
+xge	Bard	3	Glamour,Swords,Whispers
+xge	Cleric	1	Forge,Grave
+xge	Druid	2	Dreams,Shepherd
+xge	Fighter	3	Arcane Archer,Cavalier,Samurai
+xge	Monk	3	Drunken Master,Kensei,Sun Soul
+xge	Paladin	3	Conquest,Redemption
+xge	Ranger	3	Gloom Stalker,Horizon Stalker,Monster Slayer
+xge	Rogue	3	Inquisitive,Mastermind,Scout,Swashbuckler
+xge	Sorcerer	1	Divine Soul,Shadow,Storm
+xge	Warlock	1	Celestial,Hexblade
+xge	Wizard	1	War
+erlw	Artificer	3	Alchemist,Artillerist,Battle Smith
+egw	Fighter	3	Echo Knight,
+egw	Wizard	2	Chronurgy,Graviturgy
+ggr	Cleric	1	Order
+ggr	Druid	2	Spores
+scag	Barbarian	3	Totem Warrior
+scag	Cleric	1	Arcana
+scag	Fighter	3	Banneret
+scag	Monk	3	Long Death,Sun Soul
+scag	Paladin	3	Crown
+scag	Rogue	3	Mastermind,Swashbuckler
+scag	Sorcerer	1	Storm
+scag	Warlock	1	Undying

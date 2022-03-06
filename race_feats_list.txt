@@ -1,0 +1,31 @@
+Race				Str	Dex	Con	Int	Wis	Cha	AgeMod	Align	Size	Height	Weight	Speed	Lang.			Armor prof.			Weapon prof.										Tool prof.										Skill prof.		Feats
+Hill Dwarf			0	0	2	0	1	0	4	LG	Medium	44+2d4	115+2d6	25	Common,Dwarvish	None	Battleaxe,Handaxe,Throwing Hammer,Warhammer	1:Smith's tools,Brewer's supplies,Mason's tools	None			Darkvision,Dwarven Resilience,Stonecunning,Dwarven Toughness
+Mountain Dwarf			2	0	2	0	0	0	4	LG	Medium	48+2d4	130+2d6	25	Common,Dwarvish	Light,Medium	Battleaxe,Handaxe,Throwing Hammer,Warhammer	1:Smith's tools,Brewer's supplies,Mason's tools	None			Darkvision,Dwarven Resilience,Stonecunning
+High Elf				0	2	0	1	0	0	7	CG	Medium	54+2d10	90+1d4	30	Common,Elvish,Any1	None			Longsword,Shortsword,Shortbow,Longbow	None	Perception	Darkvision,Fey Ancestry,Trance,Cantrip
+Wood Elf				0	2	0	0	1	0	7	CG	Medium	54+2d10	100+1d4	35	Common,Elvish	None			Longsword,Shortsword,Shortbow,Longbow	None	Perception	Darkvision,Fey Ancestry,Trance,Mask of the Wild
+Drow Elf				0	2	0	0	0	1	7	CG	Medium	53+2d6	75+1d6	30	Common,Elvish	None	Rapier,Shortsword,Hand Crossbow	None	Perception		Superior Darkvision,Sunlight Sensitivity,Fey Ancestry,Trance,Drow Magic
+Lightfoot Halfling		0	2	0	0	0	1	2	LG	Small	31+2d4	35+1d1	25	Common,Halfling	None	None	None	None	Lucky,Brave,Halfling Nimbleness,Naturally Stealthy
+Stout Halfling			0	2	1	0	0	0	2	LG	Small	31+2d4	35+1d1	25	Common,Halfling	None	None	None	None	Lucky,Brave,Halfling Nimbleness,Stout Resilience
+Human				1	1	1	1	1	1	1	NN	Medium	56+2d10	110+2d4	30	Common,Any1	None	None	None	None	None
+Variant Human			0	0	0	0	0	0	1	NN	Medium	56+2d10	110+2d4	30	Common,Any1	None	None	None	Any1	Human Ability Score,Human Feat
+Black Dragonborn			2	0	0	0	0	1	0.8	NG	Medium	66+2d8	175+2d6	30	Common,Draconic	None	None	None	None	Breath Weapon (Acid 5 by 30 ft. line (Dex save),Acid Resistance
+Blue Dragonborn			2	0	0	0	0	1	0.8	NG	Medium	66+2d8	175+2d6	30	Common,Draconic	None	None	None	None	Breath Weapon (Lightning 5 by 30 ft. line (Dex save),Lightning Resistance
+Brass Dragonborn			2	0	0	0	0	1	0.8	NG	Medium	66+2d8	175+2d6	30	Common,Draconic	None	None	None	None	Breath Weapon (Fire 5 by 30 ft. line (Dex save),Fire Resistance
+Bronze Dragonborn			2	0	0	0	0	1	0.8	NG	Medium	66+2d8	175+2d6	30	Common,Draconic	None	None	None	None	Breath Weapon (Lightning 5 by 30 ft. line (Dex save),Lightning Resistance
+Copper Dragonborn			2	0	0	0	0	1	0.8	NG	Medium	66+2d8	175+2d6	30	Common,Draconic	None	None	None	None	Breath Weapon (Acid 5 by 30 ft. line (Dex save),Acid Resistance
+Gold Dragonborn			2	0	0	0	0	1	0.8	NG	Medium	66+2d8	175+2d6	30	Common,Draconic	None	None	None	None	Breath Weapon (Fire 15 ft. cone (Dex save),Fire Resistance
+Green Dragonborn			2	0	0	0	0	1	0.8	NG	Medium	66+2d8	175+2d6	30	Common,Draconic	None	None	None	None	Breath Weapon (Poison 15 ft. cone (Con save),Poison Resistance
+Red Dragonborn			2	0	0	0	0	1	0.8	NG	Medium	66+2d8	175+2d6	30	Common,Draconic	None	None	None	None	Breath Weapon (Fire 15 ft. cone (Dex save),Fire Resistance
+Silver Dragonborn			2	0	0	0	0	1	0.8	NG	Medium	66+2d8	175+2d6	30	Common,Draconic	None	None	None	None	Breath Weapon (Cold 15 ft. cone (Con save),Cold Resistance
+White Dragonborn			2	0	0	0	0	1	0.8	NG	Medium	66+2d8	175+2d6	30	Common,Draconic	None	None	None	None	Breath Weapon (Cold 15 ft. cone (Con save),Cold Resistance
+Forest Gnome			0	1	0	2	0	0	4	NG	Small	35+2d4	35+1d1	25	Common,Gnomish	None	None	None	None	Darkvision,Gnome Cunning,Natural Illusionist,Speak with Small Beasts
+Rock Gnome			0	0	1	2	0	0	4	NG	Small	35+2d4	35+1d1	25	Common,Gnomish	None	None	None	None	Darkvision,Gnome Cunning,Artificer's Lore,Tinker
+Half-elf				0	0	0	0	0	2	2.5	CN	Medium	57+2d8	110+2d4	30	Common,Elvish,Any1	None	None	None	Any2	Darkvision,Fey Ancestry,Half-elf Ability Score
+Half-orc				2	0	1	0	0	0	0.8	CN	Medium	58+2d10	140+2d6	30	Common,Orc	None	None	None	Intimidation	Darkvision,Relentless Endurance,Savage Attacks
+Asmodeus Tiefling			0	0	0	1	0	2	1	CE	Medium	57+2d8	110+2d4	30	Common,Infernal	None	None	None	None	Darkvision,Hellish Resistance,Infernal Legacy
+Bugbear				2	1	0	0	0	0	0.9	CE	Medium	72+2d12	200+2d6	30	Common,Goblin	None	None	None	Stealth		Darkvision,Long-Limbed,Surprise Attack
+Goblin				0	2	1	0	0	0	0.6	NE	Small	41+2d4	35+1d1	30	Common,Goblin	None	None	None	None	Darkvision,Fury of the Small,Nimble Escape
+Hobgoblin			0	0	2	1	0	0	1	LE	Medium	56+2d10	110+2d4	30	Common,Goblin	Light	Any2	None	None	Darkvision,Saving Face
+Kobold				-2	2	0	0	0	0	0.4	LE	Small	25+2d4	25+1d1	30	Common,Draconic	None	None	None	None	Darkvision,Grovel Cower and Beg, Pack Tactics,Sunlight Sensitivity
+Orc				2	0	1	0	0	0	0.7	CE	Medium	64+2d8	175+2d6	30	Common,Orc	None	None	None	Intimidate	Darkvision,Aggressive,Powerful Build
+Yuan-ti				0	0	0	1	0	2	1	NE	Medium	56+2d10	110+2d4	30	Common,Abyssal,Draconic	None	None	None	None	Darkvision,Innate Spellcasting:Yuan-ti,Magic Resistance,Poison Immunity
